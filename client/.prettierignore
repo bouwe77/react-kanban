@@ -1,0 +1,3 @@
+#Tip! Base your .prettierignore on .gitignore
+
+node_modules
